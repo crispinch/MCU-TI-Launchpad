@@ -1,0 +1,128 @@
+[
+  {
+    "ID": "c:main.c@8@macro@RCGCGPIO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCGCGPIO",
+    "location": {
+      "column": "9",
+      "line": "1",
+      "path": "C:\\Embedded\\Lesson4\\main.c"
+    },
+    "name": "RCGCGPIO",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@58@macro@GPIODATA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIODATA",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "C:\\Embedded\\Lesson4\\main.c"
+    },
+    "name": "GPIODATA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@108@macro@GPIODIR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIODIR",
+    "location": {
+      "column": "9",
+      "line": "3",
+      "path": "C:\\Embedded\\Lesson4\\main.c"
+    },
+    "name": "GPIODIR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@158@macro@GPIODEN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIODEN",
+    "location": {
+      "column": "9",
+      "line": "4",
+      "path": "C:\\Embedded\\Lesson4\\main.c"
+    },
+    "name": "GPIODEN",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@delay",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void delay(int)",
+    "location": {
+      "column": "6",
+      "line": "13",
+      "path": "C:\\Embedded\\Lesson4\\main.c"
+    },
+    "name": "delay",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@399@F@delay@count",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "count",
+    "location": {
+      "column": "7",
+      "line": "14",
+      "path": "C:\\Embedded\\Lesson4\\main.c"
+    },
+    "name": "count",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "19",
+      "path": "C:\\Embedded\\Lesson4\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@550@F@main@color_arr",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "color_arr",
+    "location": {
+      "column": "17",
+      "line": "25",
+      "path": "C:\\Embedded\\Lesson4\\main.c"
+    },
+    "name": "color_arr",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@634@F@main@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "7",
+      "line": "27",
+      "path": "C:\\Embedded\\Lesson4\\main.c"
+    },
+    "name": "i",
+    "origin": "project_file",
+    "scope": null
+  }
+]
