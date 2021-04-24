@@ -1,10 +1,10 @@
 /* RGB LED on TIVA C TM4C123G Program */
 
 /* registers */
-#define RCGCGPIO *((unsigned int *) 0x400FE608U)
-#define GPIODATA *((unsigned int *) 0x400253FCU)
-#define GPIODIR  *((unsigned int *) 0x40025400U)
-#define GPIODEN  *((unsigned int *) 0x4002551CU)
+#define RCGCGPIO (*((unsigned int *) 0x400FE608U))
+#define GPIODATA (*((unsigned int *) 0x400253FCU))
+#define GPIODIR  (*((unsigned int *) 0x40025400U))
+#define GPIODEN  (*((unsigned int *) 0x4002551CU))
 
 /* RGB colors and combos */
 #define RED             0x02U
